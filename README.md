@@ -1,2 +1,0 @@
-# projectSidebar
-sidebar Menu
